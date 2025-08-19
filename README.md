@@ -12,7 +12,7 @@ Life as it goes prevented this project from happening. Until now.
 
 Inspect the source of this readme file.
 
-_italic_, **bold**, **bold italic**, __bold italic__
+_italic_, **bold**, ***bold italic***, ___bold italic___
 
 ```mermaid
 sequenceDiagram
